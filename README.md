@@ -1,1 +1,2 @@
-# E-Hub-
+# E-Hub
+Employee Management system
